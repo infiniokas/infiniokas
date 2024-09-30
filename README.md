@@ -1,7 +1,6 @@
 Hi, I'm @infiniokas
 - 👀 I'm interested in computer science, software development, AI development, mathematics
 - 🌱 I'm currently learning C++, Python
-- 💞️ I want to collaborate in 
 - 📫 How to contact me: LinkedIn, X
 - 😄 Pronouns: Don't specify
 - ⚡ Fun fact: I study at university
